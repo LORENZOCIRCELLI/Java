@@ -1,16 +1,14 @@
 # 📚 Estudos em Java
 
-Bem-vindo ao meu repositório de estudos em **Java**! 🚀  
-Este espaço foi criado para organizar e compartilhar tudo o que estou aprendendo sobre a linguagem Java, incluindo conceitos, projetos práticos, desafios e anotações.
+Bem-vindo ao meu repositório de estudos em Java! 🚀  
+Este espaço foi criado para organizar e acompanhar meu aprendizado, registrar meu progresso e compartilhar tudo que estou aprendendo sobre a linguagem Java.
 
 ## 🛠️ Tecnologias
-
-- Java (JDK 21 ou superior)
+- Java 25 (JDK 25)
 - IDE: IntelliJ IDEA / Eclipse / VS Code
-- Maven / Gradle (opcional para gerenciamento de dependências)
+- Maven (opcional para gerenciamento de dependências)
 
 ## 🧠 Tópicos de Estudo
-
 - Sintaxe básica e tipos primitivos
 - Operadores e estruturas de controle
 - Métodos e escopo
@@ -21,11 +19,15 @@ Este espaço foi criado para organizar e compartilhar tudo o que estou aprendend
 - Programação Funcional (Lambda e Streams)
 - Threads e Concorrência
 - JDBC (Acesso a banco de dados)
-- APIs REST com Java (Spring Boot - básico)
+- Consumo de APIs (Jackson)
+- APIs REST com Java (Spring Boot)
 - Boas práticas de programação e padrões de projeto
 
 ## 🎯 Objetivos
-
 - Praticar os conceitos de Java de maneira consistente.
 - Criar uma base sólida para projetos futuros.
+- Acompanhar meu progresso de estudo pela plataforma Alura.
 - Compartilhar conhecimento e evolução no aprendizado.
+
+## 📝 Sobre o Progresso
+- Toda nova prática, exercício ou projeto será adicionado aqui para referência futura.
